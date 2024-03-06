@@ -528,7 +528,7 @@ alert('Thanks for contacting us. We will contact you ASAP!');
                     <div class="col-xl-12">
                         <div class="site-footer__bottom-inner " class = "footer_text" style = "text-align:inherit">
                                    <span  class = "copy_right copy_right_web">
-                    © All Copyright 2022 by
+                    © All Copyright 2024 by
                     <a href="#" style = "color: var(--insur-white);">SR Computers</a>
                 </span>
                 <span class = "designed_mobile designed_web">Designed by</span>
